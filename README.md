@@ -1,16 +1,14 @@
-## Hi there 👋
+# Steam Livo
 
-<!--
-**STEAM-LIVO/STEAM-LIVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the official GitHub repository of **Steam Livo**, created to meet the double-blind review requirements.  
+There are no information leakage issues in this repository.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project
+
+**STEAM-LIVO: Spatio-Temporally Adaptive Manifold Lidar-Inertial-Visual Odometry for Sensor Degradation in Unstructured Natural Aquatic-Terrestrial Scenes**
+
+STEAM-LIVO is a novel odometry algorithm that demonstrates strong performance in **unstructured natural scenes**, particularly under sensor degradation conditions.
+
+The related paper is currently under review.  
+The code will be made publicly available after acceptance.
